@@ -1,0 +1,19 @@
+.elementor-3273 .elementor-element.elementor-element-111da81{--display:flex;--background-transition:0.3s;--padding-block-start:0px;--padding-block-end:0px;--padding-inline-start:15px;--padding-inline-end:15px;}.elementor-3273 .elementor-element.elementor-element-111da81:not(.elementor-motion-effects-element-type-background), .elementor-3273 .elementor-element.elementor-element-111da81 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#262433;background-image:url("https://www.fit-holding.com/en/wp-content/uploads/2024/04/shutterstock_619197053.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-3273 .elementor-element.elementor-element-111da81, .elementor-3273 .elementor-element.elementor-element-111da81::before{--border-transition:0.3s;}.elementor-3273 .elementor-element.elementor-element-10eee8a{--display:flex;--background-transition:0.3s;--padding-block-start:120px;--padding-block-end:120px;--padding-inline-start:0px;--padding-inline-end:0px;}.elementor-3273 .elementor-element.elementor-element-11eae02 .pt-heading{color:#313131;}.elementor-3273 .elementor-element.elementor-element-3711bc2{--display:flex;--background-transition:0.3s;--margin-block-start:100px;--margin-block-end:100px;--margin-inline-start:0px;--margin-inline-end:0px;}.elementor-widget .tippy-tooltip .tippy-content{text-align:center;}/* Start custom CSS */#tablepress-4>:not(caption)>*>* {text-align:center !important;}
+
+/*.tablepress .column-1 {min-width: 243px;}
+.tablepress .column-2 {min-width: 88px;}
+.tablepress .column-3 {min-width: 53px;}*/
+
+@media only screen and (max-width:560px) {
+.tablepress .column-4 {min-width: 83px;}
+.tablepress .column-5 {min-width: 83px;}
+.tablepress .column-6 {min-width: 83px;}
+.tablepress .column-7 {min-width: 83px;}
+.tablepress .column-8 {min-width: 83px;}
+.tablepress .column-9 {min-width: 83px;}
+.tablepress .column-10 {min-width: 83px;}
+.tablepress .column-11 {min-width: 83px;}
+.tablepress .column-12 {min-width: 83px;}
+.tablepress .column-13 {min-width: 83px;}
+.tablepress .column-14 {min-width: 83px;}
+}/* End custom CSS */
